@@ -1,0 +1,74 @@
+# HALCALI – Tip Taps Tip
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Na Na Na why so why?
+想像してみてヨ
+Just you like スキなコト
+ひとつだけじゃない
+君が開くトビラ
+
+答えはそこにあるの?ないの?
+I don't know. 今もわかんないよ
+いつだって僕らは迷子
+大人は言う"Just a child..."
+でも解いてくのが楽しいンダ
+すぐには解けないかもしんない
+みんな 果てないハテナ
+諦めない 解けるまでは
+
+失敗しても ねぇ
+"All right!!"と言ってちょうだい
+精一杯イメージの海泳いで...
+(アキラメナイデ ハテナイハテナ)
+
+Na Na Na why so why?
+想像してみてヨ
+Just you like スキなコト
+ひとつだけじゃない
+君しか知らないアシタ
+
+Tips Taps Tip Taps Tip Taps so let's sing
+Tip Taps Tip Taps Tip Taps
+
+手当たり次第で「何でもイイ」と
+ゆうのは簡単でもイイの?
+きっとheart-beatがヒント
+手探りしたって選んでほしいヨ
+だって解いてくのが楽しいンダ
+解けたら100倍かもしんない
+みんな 果てないハテナ
+確かめたい だから負けない
+
+失敗しても ねぇ
+後侮しないでちょうだい
+もう1回イメージの空見上げて...
+(アキラメナイデ ハテナイハテナ)
+
+Na Na Na why so why?
+想像してみてヨ
+Just you like スキなコト
+ひとつだけじゃない
+君しか見えないナニカ
+
+小さな胸のカメラが捉えた
+夢のカケラちゃんと写して
+1コマ1コマ 今を賭けるなら
+生まれるよ あのドラマ
+
+Na Na Na why so why?
+想像してみてヨ
+Just you like スキなコト
+ひとつだけじゃない
+君が開くトビラ
+
+いつか shine your smile
+想像を超えるほど
+(Yes!)You like スキになる
+ひとつだけじゃない
+また新たなトビラ
+
+Tips Taps Tip Taps Tip Taps so let's sing
+Tip Taps Tip Taps Tip Taps
+```

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Tip Taps Tip",
+  "base_artist": "HALCALI",
+  "createdAt": "2026-01-14T08:03:42.385217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tip Taps Tip",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/01_Tip_Taps_Tip_HALCALI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tip Taps Tip (Paused)",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/02_Tip_Taps_Tip_(Paused)_HALCALI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "11. Tip Taps Tip",
+      "artist": "HALCALI",
+      "has_synced": true,
+      "path": "select/03_11._Tip_Taps_Tip_HALCALI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tip Taps Tip",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/pl_01_Tip_Taps_Tip_HALCALI.txt"
+    }
+  ]
+}
